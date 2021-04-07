@@ -26,3 +26,7 @@ Learn the basics of git workflow, including adding new files.
 `git push`
 
 6. check the repo on your github account.  Did it work?
+
+## add image 
+this is a dog
+![dog](dog.jpeg)
